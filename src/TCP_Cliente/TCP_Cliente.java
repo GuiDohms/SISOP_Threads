@@ -2,16 +2,13 @@ package TCP_Cliente;
 import java.net.*;  
 import java.io.*;  
 
-/**  
- * @param ip_server
- *  IP do TCPServer
- * testeteste
- * @param path_server 
- *  Caminho do arquivo no TCPServer 
- *  
- * @param path_client  
- *  Caminho onde o arquivo copiado do servidor vai ser salvo no TCPClient
- */  
+ 
+// @param ip_server = IP do TCP_Servidor
+  
+//@param path_server = caminho do arquivo no TCP_Servidor 
+  
+//@param path_client = caminho utilizado para salvar o arquivo copiado do servidor no TCP_Cliente
+  
 
 public class TCP_Cliente {
 	private String ip_server; 
