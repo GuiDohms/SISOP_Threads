@@ -5,7 +5,7 @@ import java.io.*;
 /**  
  * @param ip_server
  *  IP do TCPServer
- * 
+ * testeteste
  * @param path_server 
  *  Caminho do arquivo no TCPServer 
  *  
